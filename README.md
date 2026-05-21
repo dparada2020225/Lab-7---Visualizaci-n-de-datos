@@ -31,7 +31,7 @@ retailmax/
 
 ```bash
 # 1. Clonar el repositorio
-git clone https://github.com/TU_USUARIO/retailmax-lab7.git
+git clone https://github.com/dparada2020225/Lab-7---Visualizaci-n-de-datos
 cd retailmax-lab7
 
 # 2. Copiar los archivos SQL al directorio de init (si no están ya)
@@ -79,7 +79,7 @@ _(Actualizar este enlace antes de la entrega)_
 
 | Nombre | Carné |
 |--------|-------|
-| | |
+| Denil Parada | 24761 |
 | | |
 | | |
 | | |
