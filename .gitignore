@@ -1,0 +1,5 @@
+# No ignorar metabase-data/ — debe commitearse para persistir el dashboard
+# Ignorar archivos del sistema
+.DS_Store
+*.log
+GUIA_DASHBOARD.md
